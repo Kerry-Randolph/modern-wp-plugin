@@ -1,5 +1,5 @@
 {
-    "name": "kerryrandolph/modern-wp-plugin-jumpstart",
+    "name": "kerryrandolph/modern-wp-plugin",
     "description": "A modern starting point for building a Wordpress plugin",
     "type": "wordpress-plugin",
     "keywords": ["wordpress", "plugin"],
